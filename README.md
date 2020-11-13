@@ -33,6 +33,7 @@
   - [Medpy](https://loli.github.io/medpy/)
   - [Nipype](https://nipype.readthedocs.io/en/latest/)
   - [NiftyReg](http://cmictig.cs.ucl.ac.uk/wiki/index.php/NiftyReg)
+  - [Scalismo](https://scalismo.org/tutorials/tutorial10.html)
   
  
 ### Paper Sibgrapi (2018) -> A Practical Review on Medical Image Registration: from Rigid to Deep Learning based Approaches
